@@ -1,6 +1,8 @@
 # DataxData
-# is comming soon..
-Please mail us at support@dataxdata.ai
+Backed by years of research, we are coming up with a solid vision to support your marketing needs.
+We are under construction and Comming super soon..
+
+Mail us at support@dataxdata.ai
 
 <!-- You can use the [editor on GitHub](https://github.com/devxdata/devxdata.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
