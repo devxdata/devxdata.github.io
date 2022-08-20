@@ -1,5 +1,12 @@
 # DataxData
+We are revamping our website but something **about us**:
+Obtaining a good effective marketing database is a difficult task, but at DataxData, we maintain a level of quality by cleansing the market database.
+
+We are an India-based database provider, and with the approach of the Indian internet market and its remarkable report in a very short period of time, data accessibility has reached a new high.
+dXd database providers have immersed themselves in the market, providing clients with access to a large pool of categories. 
+
 Backed by years of research, we are coming up with a solid vision to support your marketing needs.
+
 We are under construction and Comming super soon..
 
 Mail us at support@dataxdata.ai
