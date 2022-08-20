@@ -8,7 +8,7 @@ dXd database providers have immersed themselves in the market, providing clients
 
 Backed by years of research, we are coming up with a solid vision to support your marketing needs.
 
-We are under construction and Comming super soon..
+We are under construction and Coming super soon..
 
 Mail us at support@dataxdata.ai
 
